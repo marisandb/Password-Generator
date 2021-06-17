@@ -11,7 +11,7 @@ else{
 }
 };
 
-
+//this goes through the password requirement prompts
 function characters() {
   
   let lowercase, uppercase, numbers, symbols;
